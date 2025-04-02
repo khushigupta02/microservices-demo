@@ -54,6 +54,10 @@ Admin Service: http://localhost:8080/admin/message
 
 Welcome Service: http://localhost:8080/welcome/message
 
+### Postman Collection
+
+A Postman collection is attached to this project for making requests to the microservices via the API Gateway. You can import the collection into Postman to test the endpoints easily.
+
 ### Eureka Server
 
 Eureka Server can be accessed at:
