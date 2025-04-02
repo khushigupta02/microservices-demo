@@ -21,28 +21,28 @@ Prerequisites
 
 ### Running the Services
 1. Start Eureka Server
-cd eureka-server
-mvn spring-boot:run
+- cd eureka-server
+- mvn spring-boot:run
 
 1. Start API Gateway
-cd eureka-server
-mvn spring-boot:run
+- cd eureka-server
+- mvn spring-boot:run
 
 2. Start Eureka Server
-cd api-gateway
-mvn spring-boot:run
+- cd api-gateway
+- mvn spring-boot:run
 
 3. Start User Service
-cd user-server
-mvn spring-boot:run
+- cd user-server
+- mvn spring-boot:run
 
 4. Start Admin Server
-cd admin-server
-mvn spring-boot:run
+- cd admin-server
+- mvn spring-boot:run
 
 5. Start Welcome Server
-cd admin-server
-mvn spring-boot:run
+- cd admin-server
+- mvn spring-boot:run
 
 ### Accessing Services via Gateway
 
